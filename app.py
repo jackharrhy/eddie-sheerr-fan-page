@@ -8,12 +8,16 @@ def hello_world():
     return """
 <style>
 body {
-    background-color: blue;
+    background-color: red;
 }
 h1 {
     font-family: cursive;
     text-align: center;
-    font-size: 5rem;
+    font-size: 6rem;
+    color: green;
+}
+img {
+    margin: 0 auto;
 }
 </style>
 <body>
